@@ -1,4 +1,4 @@
-# Hi there, I'm Tarun 👋
+# Hi there, I'm Tarun 👋  
 
 I'm an aspiring **Full Stack Developer** and a passionate **C++ programmer** who loves solving problems and building meaningful projects.  
 My journey started with C++ and Data Structures, and that foundation has shaped the way I think, code, and approach challenges.
@@ -16,7 +16,7 @@ I enjoy exploring new technologies, experimenting with ideas, and improving a li
 - **Full Stack Development** – Currently learning  
 - **Python (Basics)** – Good understanding of fundamentals  
 - **Git & GitHub** – Version control, branching, collaboration  
-- **Basic Web Development** (HTML, CSS, JS), debugging, and problem design  
+- **Basic Web Development** – HTML, CSS, JavaScript, debugging, problem design  
 
 ### **Core Strengths**
 - Fast learner with a problem-solving mindset  
@@ -48,7 +48,7 @@ I enjoy exploring new technologies, experimenting with ideas, and improving a li
 
 ---
 
-## 🎯 Goals  
+## 🎯 Goals
 - Become a strong **Full Stack Developer**  
 - Master **Advanced C++ and DSA**  
 - Improve **competitive programming** skills  
@@ -57,14 +57,13 @@ I enjoy exploring new technologies, experimenting with ideas, and improving a li
 
 ---
 
-## 📫 Contact  
-- **Email:** tarun.dev.coo@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/tarun-kushwah-791883393/  
-- **Twitter (X):** https://x.com/Modulus_dev_  
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kushwah-791883393/)
+[![Twitter](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Modulus_dev_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarun._.777_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.dev.coo@gmail.com)
 
 ---
 
-<!--
-This is a special repository because its `README.md` appears on your GitHub profile.
-You can customize this section as much as you want!
--->
+⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, or explore my repositories.*
