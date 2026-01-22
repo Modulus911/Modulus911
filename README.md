@@ -56,13 +56,16 @@ I enjoy exploring new technologies, experimenting with ideas, and improving a li
 - Secure great internships and grow internationally  
 
 ---
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kushwah-791883393/)
+
 [![Twitter](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Modulus_dev_)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tarun._.777_/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.dev.coo@gmail.com)
+
 
 ---
 
